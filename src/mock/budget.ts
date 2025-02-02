@@ -1,0 +1,37 @@
+export const budgets = [
+  {
+    amount: "$520,000",
+    title: "Product Designer",
+    progress: 60,
+    remaining: 40,
+    totalAmount: "$208,000",
+    startDate: "May 31, 2024",
+    endDate: "December 31, 2024",
+    tags: [
+      "UI/UX Designer",
+      "Visual Designer",
+      "Design Lead",
+      "7+ years experience",
+    ],
+  },
+  {
+    amount: "$120,000",
+    title: "Human Resources",
+    progress: 30,
+    remaining: 70,
+    totalAmount: "$34,500",
+    startDate: "May 31, 2024",
+    endDate: "December 31, 2024",
+    tags: ["Office Manager", "Human Resources"],
+  },
+  {
+    amount: "$260,000",
+    title: "Brand Designer",
+    progress: 45,
+    remaining: 55,
+    totalAmount: "$117,000",
+    startDate: "May 31, 2024",
+    endDate: "December 31, 2024",
+    tags: ["Branding", "Marketing", "Graphic Design"],
+  },
+];
